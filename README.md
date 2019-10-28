@@ -2,7 +2,7 @@
 
 This is a demo application that utilizes the [Ducks structural setup](https://medium.com/@matthew.holman/what-is-redux-ducks-46bcb1ad04b7) for Redux.
 
-![screencapture-localhost-3000-bank-2019-10-28-11_47_56](https://user-images.githubusercontent.com/48216110/67656122-e121ef00-f978-11e9-81d6-2535e0095d0a.png)
+![screenshot](https://user-images.githubusercontent.com/48216110/67656413-bdab7400-f979-11e9-845c-24d3a706bc81.png)
 
 This setup makes it easy to organize related reducers, actions and constants into single files thus making the developer more efficient as it requires less boilerplate structuring than the traditional method.
 
